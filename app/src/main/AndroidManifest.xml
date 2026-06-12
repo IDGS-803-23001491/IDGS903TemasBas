@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IDGS903TemasBas">
         <activity
+            android:name=".Ejemplo4.EjemploTxtActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Ejemplo3.Ejemplo3Activity"
+            android:exported="false" />
+        <activity
             android:name=".Ejemplo2.SaludoActivity"
             android:exported="false" />
         <activity
